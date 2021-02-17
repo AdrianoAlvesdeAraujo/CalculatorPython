@@ -1,17 +1,17 @@
-# Calculadora Simples em Python
+# Simple Calculator in Python
 
 
 
-Operações simples:
+#### Simples Operations:
 
-**Somar**
+- **Add**
 
-**Subtrair**
+- **Subtract**
 
-**Multiplicar**
+- **Multiply**
 
-**Dividir**  
+- **Divide** 
 
-**Potência** 
+- **Potentiation** 
 
-Criei minhas próprias funções. Lembrando que caso a divisão seja por **'0'** , que não é permitido, tem um tratamento informando ao usuário que não é permitido divisão por **'0'**
+Create my own functions, Remembering that if the division is by **0**, it is not allowed. Terminate a treatment in the division function that informs the user of the error and does not perform the operation.
